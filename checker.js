@@ -30,9 +30,6 @@ function batteryIsOk(temperature, soc, chargeRate) {
     return temperatureIsOk && socIsOk && chargeRateIsOk;
 }
 
-
-function 
-
 function main() {
     let batteryOk = batteryIsOk(25, 70, 0.7);
 
