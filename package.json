@@ -8,5 +8,6 @@
     "start": "node batteryChecker.js"
   },
   "author": "venu",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
