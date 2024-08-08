@@ -1,6 +1,6 @@
 import { TranslationService } from './translationService';
 import { batteryIsOk } from './checkerFunctions';
-import { log } from './logger';
+import { log } from './logFunction';
 
 const translationService = new TranslationService();
 
