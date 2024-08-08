@@ -1,5 +1,5 @@
 import { TranslationService } from './translationService';
-import { batteryIsOk } from './batteryChecker';
+import { batteryIsOk } from './CheckerFunctions';
 import { log } from './logger';
 
 const translationService = new TranslationService();
